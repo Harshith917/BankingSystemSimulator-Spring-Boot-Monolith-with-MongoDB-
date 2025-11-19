@@ -255,7 +255,7 @@ This Banking System Simulator is a complete, production-like backend application
 * Unit testing
 * Logging
 
-You can extend this to add authentication, dashboards, analytics, etc.
+
 
 ---
 
